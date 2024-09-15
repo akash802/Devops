@@ -1,0 +1,34 @@
+<!--
+  @description       : 
+  @author            : ChangeMeIn@UserSettingsUnder.SFDoc
+  @group             : 
+  @last modified on  : 03-21-2024
+  @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
+-->
+<template>
+    thsi is new comp
+    name is: {name} and profile is: {phone}
+    <lightning-input label="greeting" value={message} onchange={handleChange}></lightning-input>
+    {message}
+
+    <template for:each={car} for:item="eachCar">
+        <div key={eachCar.age}>
+            Looping elemtent = {eachCar.name}
+        </div>
+    </template>
+
+    <template iterator:it={car}>
+        <div key={it.value.age}>
+            <template lwc:if={it.first}>
+                first value={it.value.name}
+            </template>
+            <template lwc:elseif={it.last}>
+                last value={it.value.name}
+            </template>
+            <template lwc:else>
+                {it.value.name}
+            </template>
+            
+        </div>
+    </template>
+</template>
