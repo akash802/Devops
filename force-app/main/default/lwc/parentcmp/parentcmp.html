@@ -1,0 +1,18 @@
+<!--
+  @description       : 
+  @author            : ChangeMeIn@UserSettingsUnder.SFDoc
+  @group             : 
+  @last modified on  : 12-31-2023
+  @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
+-->
+<template>
+    <lightning-card title="parent comp">
+        here is our child
+        <c-childcmp
+        message = {message}
+        lwc:ref="childRef"
+        oncallparent={handleParentCall}>
+        </c-childcmp>
+    </lightning-card>
+    <lightning-button variant="brand" label="Brand" title="Primary action" onclick={handleClick} class="slds-m-left_x-small"></lightning-button>
+</template>
