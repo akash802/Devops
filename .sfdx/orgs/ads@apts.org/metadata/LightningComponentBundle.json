@@ -1,0 +1,122 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0052w00000AottnAAB",
+      "createdByName": "akashdeep Singh",
+      "createdDate": "2023-08-20T07:37:54.000Z",
+      "fileName": "lwc/recordFormDemo",
+      "fullName": "recordFormDemo",
+      "id": "0Rb2w000001gKm6CAE",
+      "lastModifiedById": "0052w00000AottnAAB",
+      "lastModifiedByName": "akashdeep Singh",
+      "lastModifiedDate": "2023-08-20T07:56:01.000Z",
+      "manageableState": "unmanaged",
+      "type": "LightningComponentBundle"
+    },
+    {
+      "createdById": "0052w00000AottnAAB",
+      "createdByName": "akashdeep Singh",
+      "createdDate": "2023-08-26T10:02:38.000Z",
+      "fileName": "lwc/parent",
+      "fullName": "parent",
+      "id": "0Rb2w000001gMp5CAE",
+      "lastModifiedById": "0052w00000AottnAAB",
+      "lastModifiedByName": "akashdeep Singh",
+      "lastModifiedDate": "2023-08-26T10:43:53.000Z",
+      "manageableState": "unmanaged",
+      "type": "LightningComponentBundle"
+    },
+    {
+      "createdById": "0052w00000AottnAAB",
+      "createdByName": "akashdeep Singh",
+      "createdDate": "2023-12-31T00:17:20.000Z",
+      "fileName": "lwc/parentcmp",
+      "fullName": "parentcmp",
+      "id": "0Rb2w000001DQcoCAG",
+      "lastModifiedById": "0052w00000AottnAAB",
+      "lastModifiedByName": "akashdeep Singh",
+      "lastModifiedDate": "2023-12-31T00:17:20.000Z",
+      "manageableState": "unmanaged",
+      "type": "LightningComponentBundle"
+    },
+    {
+      "createdById": "0052w00000AottnAAB",
+      "createdByName": "akashdeep Singh",
+      "createdDate": "2023-07-16T13:54:26.000Z",
+      "fileName": "lwc/subComponent",
+      "fullName": "subComponent",
+      "id": "0Rb2w000001jEsBCAU",
+      "lastModifiedById": "0052w00000AottnAAB",
+      "lastModifiedByName": "akashdeep Singh",
+      "lastModifiedDate": "2023-07-17T04:49:13.000Z",
+      "manageableState": "unmanaged",
+      "type": "LightningComponentBundle"
+    },
+    {
+      "createdById": "0052w00000AottnAAB",
+      "createdByName": "akashdeep Singh",
+      "createdDate": "2023-08-06T14:30:06.000Z",
+      "fileName": "lwc/platformEvent",
+      "fullName": "platformEvent",
+      "id": "0Rb2w000001gHllCAE",
+      "lastModifiedById": "0052w00000AottnAAB",
+      "lastModifiedByName": "akashdeep Singh",
+      "lastModifiedDate": "2023-08-06T15:12:38.000Z",
+      "manageableState": "unmanaged",
+      "type": "LightningComponentBundle"
+    },
+    {
+      "createdById": "0052w00000AottnAAB",
+      "createdByName": "akashdeep Singh",
+      "createdDate": "2023-07-19T14:18:47.000Z",
+      "fileName": "lwc/addAccount",
+      "fullName": "addAccount",
+      "id": "0Rb2w000001jFc4CAE",
+      "lastModifiedById": "0052w00000AottnAAB",
+      "lastModifiedByName": "akashdeep Singh",
+      "lastModifiedDate": "2023-07-19T14:37:29.000Z",
+      "manageableState": "unmanaged",
+      "type": "LightningComponentBundle"
+    },
+    {
+      "createdById": "0052w00000AottnAAB",
+      "createdByName": "akashdeep Singh",
+      "createdDate": "2023-08-26T10:02:25.000Z",
+      "fileName": "lwc/child",
+      "fullName": "child",
+      "id": "0Rb2w000001gMp0CAE",
+      "lastModifiedById": "0052w00000AottnAAB",
+      "lastModifiedByName": "akashdeep Singh",
+      "lastModifiedDate": "2023-08-26T10:15:47.000Z",
+      "manageableState": "unmanaged",
+      "type": "LightningComponentBundle"
+    },
+    {
+      "createdById": "0052w00000AottnAAB",
+      "createdByName": "akashdeep Singh",
+      "createdDate": "2023-07-16T13:52:52.000Z",
+      "fileName": "lwc/pubComponent",
+      "fullName": "pubComponent",
+      "id": "0Rb2w000001jEs6CAE",
+      "lastModifiedById": "0052w00000AottnAAB",
+      "lastModifiedByName": "akashdeep Singh",
+      "lastModifiedDate": "2023-07-17T04:49:08.000Z",
+      "manageableState": "unmanaged",
+      "type": "LightningComponentBundle"
+    },
+    {
+      "createdById": "0052w00000AottnAAB",
+      "createdByName": "akashdeep Singh",
+      "createdDate": "2023-12-31T00:17:13.000Z",
+      "fileName": "lwc/childcmp",
+      "fullName": "childcmp",
+      "id": "0Rb2w000001DQcjCAG",
+      "lastModifiedById": "0052w00000AottnAAB",
+      "lastModifiedByName": "akashdeep Singh",
+      "lastModifiedDate": "2023-12-31T00:17:13.000Z",
+      "manageableState": "unmanaged",
+      "type": "LightningComponentBundle"
+    }
+  ]
+}
